@@ -1,0 +1,16 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "webpack学习",
+  "main": "index.js",
+  "author": "yanglei",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^1.12.9",
+    "superagent": "^2.2.0",
+    "jquery": "^3.1.1"
+  },
+  "scripts": {
+    "start": "webpack & node server.js"
+  }
+}

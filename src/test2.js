@@ -1,0 +1,1 @@
+webpackJsonp([1],[function(n,t,o){var a=o(1),c=o(7);c(".button").on("click",function(){a.post("test.ajax",{dkdkd:1}).then(function(n){c(".show").val(n.name)})})}]);
